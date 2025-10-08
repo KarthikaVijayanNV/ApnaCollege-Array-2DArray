@@ -6,12 +6,12 @@ int main()
     int n;
     cin>>n;
     int arr[n];
-
+   
     for(int i=0; i<n; i++)
     {
         cin>>arr[i];
     }
-
+ 
     const int N= 1000;
     int indexArr[N];
 

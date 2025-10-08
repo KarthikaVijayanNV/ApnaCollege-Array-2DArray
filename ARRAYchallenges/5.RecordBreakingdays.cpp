@@ -6,8 +6,8 @@ int main()
     cout<<"Enter n"<<endl;
     cin>>n;
 
-     int arr[n+1];
-     arr[n]=-1;      // or u can initialise arr[i] = INT_MIN  minimum interger
+    int arr[n+1];
+    arr[n]=-1;      // or u can initialise arr[i] = INT_MIN  minimum interger
 
     for(int i=0; i<n; i++)
     {
